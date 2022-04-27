@@ -1,0 +1,4 @@
+#Tue Apr 12 07:30:42 ALMT 2022
+base.0=/home/pikachoof/Desktop/Coding/AppDev/e-Ashana/playground/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
